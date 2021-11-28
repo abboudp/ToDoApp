@@ -10,19 +10,17 @@ Time spent: 4 hours spent in total
 
 The following **required** functionality is completed:
 
-* [ ] User can **view a list of todo items**
-* [ ] User can **successfully add and remove items** from the todo list
-* [ ] User's **list of items persisted** upon modification and and retrieved properly on app restart
+* [X] User can **view a list of todo items**
+* [X] User can **successfully add and remove items** from the todo list
+* [X] User's **list of items persisted** upon modification and and retrieved properly on app restart
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://imgur.com/a/x0ZJC2S' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='http://i.imgur.com/a/gGHNdVE' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
-
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/x0ZJC2S" data-context="false" ><a href="//imgur.com/a/x0ZJC2S"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 ## Notes
 
@@ -30,7 +28,7 @@ Working on adding editable tasks, but having difficulties at the moment. Will up
 
 ## License
 
-    Copyright 2021 Paul Abboud
+    Copyright [2021] [Paul Abboud]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
